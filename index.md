@@ -6,6 +6,7 @@
 ### 🧩 Unidad 1  
 **Tema principal:** Introducción a la programación y estructuras básicas.  
 **Contenido:** Conceptos fundamentales, tipos de datos, variables y operadores.  
+[Ir a Unidad 1](unidad1.md)
 
 ---
 
