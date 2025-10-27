@@ -21,7 +21,7 @@
 ***Tema principal:*** Fundamentos de Algoritmos y programas 
 ***Contenido:***  Identifica los conceptos fundamentales de la teoría de la programación, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad
 
-[Ir a Unidad 1](unidad1.md)
+### [Ir a Unidad 1](unidad1.md)
 
 ---
 
@@ -29,14 +29,14 @@
 ***Tema principal:*** Estructuras algorítmicas de control 
 ***Contenido:*** Aplica las estructuras de programación en la resolución de problemas básicos, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad
 
-[Ir a Unidad 2](unidad2.md)
+### [Ir a Unidad 2](unidad2.md) 
 ---
 
 ### 💾 Unidad 3  
 ***Tema principal:*** Programación modular y estructura de datos estáticas
 ***Contenido:*** Desarrolla aplicaciones utilizando el principio de la programación modular y estructuras de datos simples y/o estáticas compuestas, bajo los principios de solidaridad,transparencia, responsabilidad y honestidad
  
-[Ir a Unidad 3](unidad3.md)
+### [Ir a Unidad 3](unidad3.md)
 
 ---
 
