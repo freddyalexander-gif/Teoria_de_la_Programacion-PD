@@ -1,40 +1,52 @@
-# Teoría de la Programación  
-## Portafolio Digital de Aprendizaje  
+# 📘 UNIVERSIDAD NACIONAL DE LOJA
+
+## 💻 Carrea: Ingeneria en Ciencias de la Computacion
+### Asignatura: Teoría de la Programación  
+### Ciclo: Nro. 1 
+### Período Académico: Septiembre 2025 – Febrero 2026
+
+---
+
+### 🧑‍🏫 Docente: Ing. Lissette Geoconda López Faicán
+### 👨‍🎓 Estudiante: Freddy Alexander Ordoñez Gonzalez
+
+---
+
+## 📂 Portafolio Digital de Aprendizaje
+***Este portafolio recopila las evidencias, reflexiones y actividades desarrolladas a lo largo de la asignatura Teoría de la Programación.***
 
 ---
 
 ### 🧩 Unidad 1  
-**Tema principal:** Introducción a la programación y estructuras básicas.  
-**Contenido:** Conceptos fundamentales, tipos de datos, variables y operadores.  
+***Tema principal:*** Fundamentos de Algoritmos y programas 
+***Contenido:***  Identifica los conceptos fundamentales de la teoría de la programación, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad
+
 [Ir a Unidad 1](unidad1.md)
 
 ---
 
 ### ⚙️ Unidad 2  
-**Tema principal:** Estructuras de control y funciones.  
-**Contenido:** Condicionales, bucles, funciones y modularización del código.  
+***Tema principal:*** Estructuras algorítmicas de control 
+***Contenido:*** Aplica las estructuras de programación en la resolución de problemas básicos, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad
 
+[Ir a Unidad 2](unidad2.md)
 ---
 
 ### 💾 Unidad 3  
-**Tema principal:** Arreglos, punteros y manejo de memoria.  
-**Contenido:** Arreglos unidimensionales y multidimensionales, paso de parámetros y punteros.  
+***Tema principal:*** Programación modular y estructura de datos estáticas
+***Contenido:*** Desarrolla aplicaciones utilizando el principio de la programación modular y estructuras de datos simples y/o estáticas compuestas, bajo los principios de solidaridad,transparencia, responsabilidad y honestidad
+ 
+[Ir a Unidad 3](unidad3.md)
 
 ---
 
 ## 📘 Conclusiones  
-La programación permite desarrollar soluciones lógicas y estructuradas a los problemas.  
-Durante el proceso de aprendizaje se fortalecen habilidades como el pensamiento computacional, la lógica y la creatividad para crear soluciones eficientes.  
-
+ 
 ---
 
-## 📚 Referencias  
-- Kernighan, B. & Ritchie, D. *The C Programming Language.*  
-- Documentación oficial de [C](https://devdocs.io/c/)  
-- Tutoriales de [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)  
+## 📚 Referencias 
 
 ---
 
 ## 🤖 Uso de Inteligencia Artificial  
-El uso de herramientas basadas en IA, como ChatGPT, apoyó la redacción, organización y verificación de contenidos.  
-Estas tecnologías facilitaron la comprensión de temas complejos y la creación de documentación más clara y estructurada.  
+
