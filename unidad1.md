@@ -20,6 +20,8 @@ Aquí se encontrará cada tema separado por archivos para una lectura más clara
   
 - [Tareas entregadas](tareas/)
 
+- [⬅️ Volver al índice del Portafolio](index.md)
+
 ---
 
 > *“Programar no es escribir código, es aprender a pensar paso a paso.”*
