@@ -18,7 +18,7 @@ Aquí se encontrará cada tema separado por archivos para una lectura más clara
   
 - [Reflexión crítica](reflexion.md)
   
-- [Tareas entregadas](tareas/)
+- [Tareas entregadas](https://drive.google.com/drive/folders/1XTXC91ol0Suk_79qI0TfWU0Ol9HJ55um?usp=drive_link)
 
 - [⬅️ Volver al índice del Portafolio](index.md)
 
