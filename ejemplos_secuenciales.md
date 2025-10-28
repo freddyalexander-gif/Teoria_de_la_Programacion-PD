@@ -46,6 +46,6 @@ Desarrollé ejercicios en **PSeInt** y **C**, aplicando instrucciones en orden.
 >Los escribí primero en PSeInt, para comprobar la lógica, y luego lo programé en C, viendo cómo los cálculos se mostraban correctamente en pantalla. Ambos ejercicios me ayudaron a reforzar el pensamiento lógico, la secuencia de pasos y la forma en que los programas funcionan internamente para resolver problemas reales y cotidianos.
 
 
-
+[🔢 Ir a los ejemplos](https://drive.google.com/drive/folders/1Xqky4Df5yLluXnuHkBSvUvoEFzRBBqPj?usp=sharing)
 
 [⬅️ Volver al índice de la Unidad 1](unidad1.md)
