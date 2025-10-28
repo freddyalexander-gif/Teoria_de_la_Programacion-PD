@@ -53,3 +53,6 @@
 
 ## 🤖 Uso de Inteligencia Artificial  
 
+### 🧩 Unidad 1  
+
+>Durante el desarrollo de este portafolio, utilicé la Inteligencia Artificial (IA) como apoyo para mejorar la redacción y la organización de contenidos. Esta herramienta no reemplazan el aprendizaje humano, sino que complementan el proceso educativo, ofreciendo explicaciones claras, sugerencias de formato y ejemplos prácticos. Gracias al uso responsable de la IA, pude reforzar mis conocimientos de programación, estructurar mejor mis ideas y presentar un trabajo más ordenado y coherente, manteniendo siempre mi propio criterio y razonamiento en cada actividad.
