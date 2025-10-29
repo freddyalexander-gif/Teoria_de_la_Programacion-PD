@@ -1,7 +1,7 @@
 # 🧱 Programación por Bloques  
 
 
->La programación por bloques me ayudo a entender la lógica de la programación de una forma mas visual e interactiva. Como explica Moreno, “este tipo de herramientas permiten aprender sin preocuparse por la sintaxis de un lenguaje” [4]. De acuerdo con Moreno, la programación por bloques es una herramienta la cual no ayuda a comprender una manera practica y lógica como cada acción que ejecutamos.
+>La programación por bloques me ayudo a entender la lógica de la programación de una forma mas visual e interactiva. Como explica Moreno, “este tipo de herramientas permiten aprender sin preocuparse por la sintaxis de un lenguaje” [4]. De acuerdo con Moreno, la programación por bloques es una herramienta la cual nos ayuda a comprender de una manera practica y lógica de cada acción que ejecutamos.
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/dcd37dc1-472d-4f71-a46a-a20942cdab48" />
 
