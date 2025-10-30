@@ -8,25 +8,22 @@ Cada enlace dirige al documento almacenado en **Google Drive** correspondiente a
 ---
 
 ### 🧩 AA Nro. 1: Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo. 
-🔗 [Ver Actividad Autonoma Nro.1](https://drive.google.com/file/d/1Rvd0PWBt949hp9BIWwItiNELs5ip96wn/view?usp=drive_link)
+>🔗 [Ver Actividad Autonoma Nro.1](https://drive.google.com/file/d/1Rvd0PWBt949hp9BIWwItiNELs5ip96wn/view?usp=drive_link)
 
 ---
 
-### ⚙️ Tarea 2: Instalación de Lenguajes de Programación  
->**Descripción:** Evidencia del proceso de instalación de los lenguajes **C, Python y Java**, junto con la configuración del entorno de desarrollo.  
-🔗 [Ver en Google Drive](https://drive.google.com/...)
+### ⚙️ AA Nro. 2: Instalación de Lenguajes de Programación  
+>🔗 [Ver Actividad Autonoma Nro.2](https://drive.google.com/file/d/1mKXo_IzrtFrC34XHFqZ-djiE4t6Pe0nB/view?usp=drive_link)
 
 ---
 
-### 💻 Tarea 3: Algoritmos con Estructuras Secuenciales  
->**Descripción:** Desarrollo de ejercicios prácticos aplicando estructuras secuenciales en pseudocódigo y su versión en C.  
-🔗 [Ver en Google Drive](https://drive.google.com/...)
+### 💻 APE Nro.1: Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
+> 🔗 [Ver Actividad Practica Experimental Nro.1](https://drive.google.com/file/d/1kK84w7PDTRQ6fNpkB6V7cqBiJOyCOOkB/view?usp=drive_link)
 
 ---
 
-### 🔢 Tarea 4: Del Diseño al Programa  
->**Descripción:** Implementación de un algoritmo diseñado en PSeInt transformado en un programa funcional en C, aplicando lógica estructurada.  
-🔗 [Ver en Google Drive](https://drive.google.com/...)
+### 🔢 APE Nro.2: Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.
+>🔗 [Ver Actividad Practica Experimental Nro.2](https://drive.google.com/file/d/1SIrY9D0UiFqqkYR__jNYNJfy_PypMtJO/view?usp=drive_link)
 
 ---
 
