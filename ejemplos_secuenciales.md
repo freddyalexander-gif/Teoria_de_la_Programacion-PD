@@ -178,6 +178,10 @@ return 0;
 
 #### Nota 1. Porque se debe realizar las pruebas de escritorio?
 
+>Es importante realizar pruebas de escritorio porque nos permite comprobar de manera sencilla si un programa está funcionando como esperamos, antes de ejecutarlo en la computadora esto además nos ayuda a ver cómo cambian las variables, a detectar errores en la lógica o en los cálculos y así corregirlos a tiempo. Logrando evitar fallos en la ejecución, lo que nos ayuda a comprender mejor cómo fluye nuestro propio código y asegurar que los resultados finales sean correctos.
+
 #### Nota 2. Cuales son los pasos para copilar y ejecutar el codigo en C?
+
+>Para copilar y ejecutar el código en c lo primero que se debe hacer es usar el comando (gcc nombre_del_archivo.c -o nombre_del_archivo), donde “gcc” es el compilador, “nombre_del_archivo.c” es el archivo del código fuente, y “-o nombre_del_archivo”, indica que el archivo ejecutable se llamará (nombre_del_archivo.exe). Si no hay errores en el código, el compilador crea el archivo ejecutable. Luego, para ejecutarlo, se escribe (./nombre_del_archivo.exe) y el programa comienza a correr, mostrando los resultados en pantalla. En resumen, esos dos pasos compilar y ejecutar permiten transformar tu código en un programa funcional listo para usarse.
 
 [⬅️ Volver al índice de la Unidad 1](unidad1.md)
