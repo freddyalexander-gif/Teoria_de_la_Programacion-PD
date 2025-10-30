@@ -20,8 +20,9 @@ Aquí se encontrará cada tema separado por archivos para una lectura más clara
 
 - [Referencias Bibliograficas](referencias.md)
   
-- [Tareas entregadas](https://drive.google.com/drive/folders/1XTXC91ol0Suk_79qI0TfWU0Ol9HJ55um?usp=drive_link)
+- [Tareas Entregadas](tareas.md)
 
+------
 - [⬅️ Volver al índice del Portafolio](index.md)
 
 ---
