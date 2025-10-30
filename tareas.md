@@ -8,7 +8,7 @@ Cada enlace dirige al documento almacenado en **Google Drive** correspondiente a
 ---
 
 ### 🧩 AA Nro. 1: Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo. 
-🔗 [Ver Actividad Autonoma Nro.1](https://drive.google.com/drive/folders/1AcRvD9v3Axk-wp2auVlIhmnfzr5WIOZd?usp=drive_link)
+🔗 [Ver Actividad Autonoma Nro.1](https://drive.google.com/file/d/1Rvd0PWBt949hp9BIWwItiNELs5ip96wn/view?usp=drive_link)
 
 ---
 
