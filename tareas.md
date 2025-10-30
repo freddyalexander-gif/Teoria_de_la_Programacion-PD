@@ -27,4 +27,5 @@ Cada enlace dirige al documento almacenado en **Google Drive** correspondiente a
 
 ---
 
+[⬅️ Volver al índice de la Unidad 1](unidad1.md)
 > ✨ *Cada tarea refleja el progreso en la comprensión de la lógica algorítmica y el desarrollo del pensamiento computacional durante la unidad.*
