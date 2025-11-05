@@ -49,7 +49,9 @@
 
 ## 📚 Referencias 
 
-[Referencias Unidad 1](referencias.md)
+### 🧩 Unidad 1  
+
+
 
 ## 🤖 Uso de Inteligencia Artificial  
 
