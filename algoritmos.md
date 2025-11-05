@@ -29,12 +29,12 @@
 
 >***Captura Nro.5: Ejemplo de un Pseudocodigo***
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/06c546f8-9afa-40d8-9719-e18be0a4932c" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/06c546f8-9afa-40d8-9719-e18be0a4932c" />
 
 
 >***Captura Nro.6: Ejemplo de un Diagrama de Flujo***
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/837aad42-1fdd-45e7-9c39-b80550d64652" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/837aad42-1fdd-45e7-9c39-b80550d64652" />
 
 
 [⬅️ Volver al índice de la Unidad 1](unidad1.md)
