@@ -8,19 +8,19 @@ Aquí se encontrará cada tema separado por archivos para una lectura más clara
 
 ### 📑 Contenidos de la Unidad 1
 
-- [Algoritmos, pseudocódigo y diagrama de flujo](algoritmos.md)
+- [Algoritmos, pseudocódigo y diagrama de flujo](UNIDAD1/algoritmos.md)
   
-- [Programación por bloques](programacion_bloques.md)
+- [Programación por bloques](UNIDAD1/programacion_bloques.md)
   
-- [Ejemplos de algoritmos secuenciales](ejemplos_secuenciales.md)
+- [Ejemplos de algoritmos secuenciales](UNIDAD1/ejemplos_secuenciales.md)
   
-- [Principales dificultades](dificultades.md)
+- [Principales dificultades](UNIDAD1/dificultades.md)
   
-- [Reflexión crítica](reflexion.md)
+- [Reflexión crítica](UNIDAD1/reflexion.md)
 
 - [Referencias Bibliograficas](referencias.md)
   
-- [Tareas Entregadas](tareas.md)
+- [Tareas Entregadas](UNIDAD1/tareas.md)
 
 ------
 - [⬅️ Volver al índice del Portafolio](index.md)
