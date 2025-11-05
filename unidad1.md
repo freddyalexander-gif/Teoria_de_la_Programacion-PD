@@ -17,9 +17,7 @@ Aquí se encontrará cada tema separado por archivos para una lectura más clara
 - [Principales dificultades](UNIDAD1/dificultades.md)
   
 - [Reflexión crítica](UNIDAD1/reflexion.md)
-
-- [Referencias Bibliograficas](referencias.md)
-  
+ 
 - [Tareas Entregadas](UNIDAD1/tareas.md)
 
 ------
