@@ -50,7 +50,19 @@ Algoritmo Calcular_el_Tiempo_Aceleracion_de_un_Vehiculo
 	Escribir "El tiempo de su vehiculo es (s) ", tiempo_vehiculo;
 FinAlgoritmo
 ```
-***Pseudocodigo  en C***
+>***Captura Nro.3: Diagrama de Flujo***
+
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/0c029f87-4d1d-481f-8e07-820aecc7bb25" />
+
+>***Captura Nro.4: Pruebas de Escritorio***
+
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/b4b91e0e-adeb-4a71-8eec-1ac3843dfeb0" />
+
+>***Captura Nro.5: Ejecucion en PseInt***
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/904cd076-9437-423f-9e89-34cdc9dbc4f8" />
+
+***Codigo  en C***
 ```python
 /*1.Un usuario quiere determinar el tiempo que tarde en recorrer su vehículo, pero 
 solo consta con los datos de la fuerza "N", la masa "Kg" de su vehículo, también 
@@ -86,25 +98,16 @@ return 0;
 
 ```
 
->***Captura Nro.3: Diagrama de Flujo***
+>***Captura Nro.6: Ejecucion en C***
 
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/0c029f87-4d1d-481f-8e07-820aecc7bb25" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/245b8092-b440-4702-8e01-562c40dd3c8f" />
 
->***Captura Nro.4: Ejecucion en Pseint y C***
-
-> Se puede observar como en ambos lenguajes el programa se ejecuta correctamente sin ningun error, ademas en C se aprecia la copilacion y ejecucion del codigo
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/904cd076-9437-423f-9e89-34cdc9dbc4f8" />
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/245b8092-b440-4702-8e01-562c40dd3c8f" />
-
->***Captura Nro.5: Pruebas de Escritorio***
-
-<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/b4b91e0e-adeb-4a71-8eec-1ac3843dfeb0" />
 
 #### Ejercicio Nro.2 Porcentaje de Poder
 >El segundo ejercicio fue mas creativo: calcular el poder total de un personaje de videojuego. Su poder aumentaba un 55% pero los enemigos lo reducían un 30%. El programa debía mostrar el poder final después de aplicar ambos porcentajes. En este algoritmo, la entrada es el poder base del personaje. Durante el proceso, se calcula primero el aumento del 55%, luego se suma al poder base y después se aplica una reducción del 30% causada por los enemigos. Finalmente, la salida muestra el poder total que tendrá el personaje al finalizar la batalla.
 
 
->***Captura Nro.6: Pseudocodigo de PseInt***
+***Pseudocodigo de PseInt***
 ```python
 Algoritmo Porcentalidad_Poder
 	//El usuario quiere determinar el porcentaje total de poder que tendrá, su personaje favorito de su videojuego, 
@@ -128,7 +131,19 @@ Algoritmo Porcentalidad_Poder
 	
 FinAlgoritmo
 ```
->***Captura Nro.7: Pseudocodigo  en C***
+>***Captura Nro.8: Diagrama de Flujo***
+
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/5070720f-bdae-44ec-b70f-da9d2b6918e8" />
+
+>***Captura Nro.10: Pruebas de Escritorio***
+
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/59e290c9-6a64-4197-8a6f-97542d820c2b" />
+
+>***Captura Nro.9: Ejecucion en Pseint***
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/24afbf7a-6ec8-440c-8dd9-89df90f45187" />
+
+***Codigo de C***
 ```python
 /*El usuario quiere determinar el porcentaje total de poder que tendrá, su personaje favorito de su videojuego, al momento 
 que este active una habilidad, donde dice que su poder, aumenta en un 55%, pero los enemigos contrarrestan ese poder con 
@@ -157,31 +172,18 @@ printf ("Su personaje disminuera su poder en un valor de:%2.f\n",disminucion_de_
 return 0;
 }
 ```
->***Captura Nro.8: Diagrama de Flujo***
 
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/5070720f-bdae-44ec-b70f-da9d2b6918e8" />
+>***Captura Nro.9: Ejecucion en C***
 
->***Captura Nro.9: Ejecucion en Pseint y C***
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/24afbf7a-6ec8-440c-8dd9-89df90f45187" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a176a0d9-92e5-426f-a852-613c7df3ef18" />
 
->***Captura Nro.10: Pruebas de Escritorio***
 
-<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/59e290c9-6a64-4197-8a6f-97542d820c2b" />
 
 
 >Los escribí primero en PSeInt, para comprobar la lógica, y luego lo programé en C, viendo cómo los cálculos se mostraban correctamente en pantalla. Ambos ejercicios me ayudaron a reforzar el pensamiento lógico, la secuencia de pasos y la forma en que los programas funcionan internamente para resolver problemas reales y cotidianos.
 
-
 [🔢 Ir a los ejemplos](https://drive.google.com/drive/folders/1Xqky4Df5yLluXnuHkBSvUvoEFzRBBqPj?usp=sharing)
 
-#### Nota 1. Porque se debe realizar las pruebas de escritorio?
-
->Es importante realizar pruebas de escritorio porque nos permite comprobar de manera sencilla si un programa está funcionando como esperamos, antes de ejecutarlo en la computadora esto además nos ayuda a ver cómo cambian las variables, a detectar errores en la lógica o en los cálculos y así corregirlos a tiempo. Logrando evitar fallos en la ejecución, lo que nos ayuda a comprender mejor cómo fluye nuestro propio código y asegurar que los resultados finales sean correctos.
-
-#### Nota 2. Cuales son los pasos para copilar y ejecutar el codigo en C?
-
->Para copilar y ejecutar el código en c lo primero que se debe hacer es usar el comando (gcc nombre_del_archivo.c -o nombre_del_archivo), donde “gcc” es el compilador, “nombre_del_archivo.c” es el archivo del código fuente, y “-o nombre_del_archivo”, indica que el archivo ejecutable se llamará (nombre_del_archivo.exe). Si no hay errores en el código, el compilador crea el archivo ejecutable. Luego, para ejecutarlo, se escribe (./nombre_del_archivo.exe) y el programa comienza a correr, mostrando los resultados en pantalla. En resumen, esos dos pasos compilar y ejecutar permiten transformar tu código en un programa funcional listo para usarse.
 
 [⬅️ Volver al índice de la Unidad 1](unidad1.md)
