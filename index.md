@@ -24,15 +24,20 @@ Este espacio tiene como propósito fundamental registrar y consolidar las **Acti
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <h3>📘 Unidad 1</h3>
       <p><b>Introducción a la Probabilidad. Modelos Probabilísticos</b></p>
       <a href="unidad1.md"><b>👉 Acceder a Unidad 1</b></a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <h3>📙 Unidad 2</h3>
       <p><b>Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria</b></p>
       <a href="unidad2.md"><b>👉 Acceder a Unidad 2</b></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>📗 Unidad 3</h3>
+      <p><b>Ley de grandes números</b></p>
+      <a href="unidad3.md"><b>👉 Acceder a Unidad 3</b></a>
     </td>
   </tr>
 </table>
