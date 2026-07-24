@@ -1,7 +1,7 @@
-<h1 align="center"> 🧩 Unidad 1: Introducción a la Probabilidad y Modelos Probabilísticos </h1>
+<h1 align="center"> 📈 Unidad 3: Ley de grandes números.</h1>
 
- **Bienvenido al repositorio de evidencias.**
- Este espacio ha sido diseñado para centralizar de manera técnica y ordenada las **Actividades de Aprendizaje Práctico Experimental (APE)** de la asignatura de *Teoría de la Probabilidad y Distribución*. Aquí encontrarás el desarrollo, análisis y resolución de ejercicios prácticos implementados en esta unidad.
+**Bienvenido al repositorio de evidencias.**
+Este espacio ha sido diseñado para centralizar de manera técnica y ordenada las **Actividades de Aprendizaje Práctico Experimental (APE)** de la asignatura de *Teoría de la Probabilidad y Distribución*. Aquí encontrarás el desarrollo, análisis y resolución de ejercicios prácticos implementados en esta unidad.
 
 ---
 
@@ -9,21 +9,20 @@
 
 | Actividad | Descripción | Enlace al Notebook |
 | :--- | :--- | :--- |
-| **APE 00** | Fundamentos de Probabilidad y Espacios Muestrales | [💻 Ver Notebook](UNIDAD1/APE00_GrupoC.ipynb) |
-| **APE 01** | Variables Aleatorias y Distribuciones de Probabilidad | [💻 Ver Notebook](UNIDAD1/APE01_GrupoC.ipynb) |
-| **APE 02** | Distribuciones Muestrales y Teorema del Limite Central | [💻 Ver Notebook](UNIDAD1/APE02_GrupoC.ipynb) |
-| **APE 03** | Variables Aleatorias Discretas y Continuas | [💻 Ver Notebook](UNIDAD1/APE03_GrupoC.ipynb) |
-| **APE 04** | Momentos Estadísticos y Análisis de Tendencia Central con Python | [💻 Ver Notebook](UNIDAD1/APE04_GrupoC.ipynb) |
-| **APE 05** | Distribuciones Discretas Notables. | [💻 Ver Notebook](UNIDAD1/APE05_GrupoC.ipynb) |
+| **APE 11** | Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey) | [💻 Ver Notebook](UNIDAD3/APE11_GrupoC.ipynb) |
+| **APE 12** | (Análisis Bivariado y Predicción): Implementación de la Correlación de Pearson y ajuste del Modelo de Regresión Lineal Simple por Mínimos Cuadrados Ordinarios (OLS). | [💻 Ver Notebook](UNIDAD3/APE12_GrupoC.ipynb) |
+| **APE 13** | (Análisis Predictivo Multivariado): Desarrollo de modelos de Regresión Lineal Múltiple y diagnóstico de colinealidad mediante el Factor de Inflación de la Varianza (VIF). | [💻 Ver Notebook](UNIDAD3/APE13_GrupoC.ipynb) |
+| **APE 14** |  (Modelado Probabilístico Avanzado): Programación de algoritmos de Regresión Logística, clasificación binaria de eventos y evaluación de matrices de confusión.Descripción de la sección | [💻 Ver Notebook](UNIDAD3/APE14_GrupoC.ipynb) |
+| **APE 15** | (Evaluación Avanzada de Modelos): Construcción de curvas ROC, cálculo del Área Bajo la Curva (métrica AUC) y validación cruzada mediante técnicas de K-Fold.| [💻 Ver Notebook](UNIDAD3/APE15_GrupoC.ipynb) |
 
 ---
 ### 🧠 Reflexión y Aprendizaje Académico
-Durante el desarrollo de esta unidad, mi proceso de aprendizaje se centró en comprender la naturaleza estocástica de los fenómenos reales y cómo podemos modelarlos matemáticamente:
+Durante el desarrollo de esta tercera unidad, mi proceso de aprendizaje escaló hacia la aplicación de modelos más avanzados, consolidando la base estocástica adquirida previamente:
 
-* **Fundamentación probabilística:** Pasé de una visión intuitiva a una formalización rigurosa, entendiendo que cada modelo es una representación de la incertidumbre en sistemas computacionales.
-* **Implementación práctica (APE):** El trabajo con Jupyter Notebooks me permitió ver la importancia de la computación estadística. Aprendí a convertir teoría sólida en algoritmos predictivos.
-* **Desafíos y Pensamiento Computacional:** La correcta interpretación de distribuciones me obligó a refinar mi lógica, entendiendo que en ingeniería la precisión del modelo es tan crítica como la ejecución del código.
-* **Criterio crítico:** He desarrollado la capacidad de discernir qué modelo es adecuado para cada conjunto de datos, manteniendo siempre la transparencia y honestidad en los resultados.
+* **Evolución probabilística:** Pasé de analizar distribuciones individuales a comprender modelos de mayor complejidad, reconociendo cómo interactúan múltiples variables dentro de entornos computacionales.
+* **Implementación práctica (APE):** El trabajo continuo en Jupyter Notebooks me ha permitido afianzar mis habilidades de programación estadística. Logré automatizar cálculos complejos y generar visualizaciones con mayor fluidez y precisión.
+* **Desafíos y Pensamiento Computacional:** La resolución de esta nueva serie de ejercicios me exigió un nivel analítico superior, obligándome a optimizar mis algoritmos y garantizar que el código sea tan eficiente como matemáticamente riguroso.
+* **Criterio crítico:** He fortalecido mi capacidad para tomar decisiones informadas sobre qué técnicas o distribuciones aplicar frente a escenarios de datos simulados, manteniendo un enfoque estructurado.
 
 ---
 <div align="center">
@@ -31,5 +30,5 @@ Durante el desarrollo de esta unidad, mi proceso de aprendizaje se centró en co
 [⬅️ Volver al Índice Principal](index.md)
 
 ---
-*“La probabilidad nos permite cuantificar la incertidumbre en los sistemas computacionales.”*
+*“El análisis probabilístico riguroso es la base para la toma de decisiones en la ingeniería.”*
 </div>
